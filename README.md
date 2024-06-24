@@ -3,6 +3,8 @@ This is a personal challenge where I try to finish this Data Structures and Algo
 
 ### [Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 
+### [Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+
 ## Rules
 
 *For every problem solved, increment a point to the counter.*
