@@ -1,7 +1,17 @@
 # DSA-Challenge
-This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a month (or less)! This is to prepare for my internship hunt this July. No google, no chatgpt, no cheating!
+This is a personal challenge where I try to finish this Data Structures and Algorithms playlist in just a span of a month (or less)! This is to prepare for my internship hunt this July. 
 
-However, if I do get stuck on one problem for too long (let's say, a day spent on just one problem), I can peek at the solution.
+### Counter: 0 / 69
+
+## Rules
+
+*For every problem solved, increment a point to the counter.*
+
+*I must watch and complete at least two algorithms in one day. Failure to solve the problem should be recorded and documented for the reason (a point must be skipped).*
+
+*No google, no chatgpt, no cheating!*
+
+*However, if I do get stuck on one problem for too long (let's say, a day spent on just one problem), I can peek at the solution.*
 
 [Here is the link of the playlist.](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=VhsPLVX7o5fOsCRh)
 
