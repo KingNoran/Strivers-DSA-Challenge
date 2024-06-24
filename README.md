@@ -15,6 +15,8 @@ This is a personal challenge where I try to finish this Data Structures and Algo
 
 *However, if I do get stuck on one problem for too long (let's say, a day spent on just one problem), I can peek at the solution.*
 
+Current Milestone: Learn the Basics (0/31)
+
 ## Languages used:
 
 <img width="75" height="75" id="python-logo" src="https://github.com/KingNoran/KingNoran/assets/108130291/02797795-cac7-44fe-85fd-33af756b0f93" >
