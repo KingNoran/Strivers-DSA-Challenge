@@ -1,6 +1,8 @@
 # DSA-Challenge
 This is a personal challenge where I try to finish this Data Structures and Algorithms sheet in just a span of a month (or less)! This is to prepare for my internship hunt this July. 
 
+###[Playlist](https://www.youtube.com/watch?v=0bHoB32fuj0&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
+
 ## Rules
 
 *For every problem solved, increment a point to the counter.*
