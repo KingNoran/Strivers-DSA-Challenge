@@ -1,3 +1,4 @@
+package easy;
 public class highest {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5,50,6,7,8,9};

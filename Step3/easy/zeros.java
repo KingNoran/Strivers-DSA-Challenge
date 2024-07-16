@@ -1,3 +1,4 @@
+package easy;
 public class zeros {
     public static void main(String[] args) {
         int[] arr = {0,1,0,2,3,4,5};
